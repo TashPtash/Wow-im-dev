@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello world from Russia with love one 
-=======
 hello world from Russia with love two 
->>>>>>> dev2
